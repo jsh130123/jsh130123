@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ 소개 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  👋 안녕하세요, 개발을 배우고 있는 주니어 개발자 정승환입니다.<br>  </li> 파이썬, 자바스크립트, C 언어를 중심으로 공부하고 있으며<br></li>   HTML / CSS를 활용한 정적인 웹사이트 제작과<br></li>   간단한 매크로 개발을 취미로 하고 있습니다.<br><br></li></li><li> 🐍 Python / JavaScript / C<br></li><li> 🌐 HTML / CSS<br></li><li> 🛠️ 관심 분야: 자동화, 매크로, 정적 웹<br><br></li></li>작은 것부터 꾸준히 만들며 성장하는 것을 목표로 합니다.</li> </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  👋 안녕하세요, 개발을 배우고 있는 주니어 개발자 정승환입니다.<br>  </li> 파이썬, 자바스크립트, C 언어를 중심으로 공부하고 있으며<br></li>   HTML / CSS를 활용한 정적인 웹사이트 제작과<br></li>   간단한 매크로 개발을 취미로 하고 있습니다.<br><br></li></li> 🐍 Python / JavaScript / C<br></li> 🌐 HTML / CSS<br></li> 🛠️ 관심 분야: 자동화, 매크로, 정적 웹<br><br></li></li>작은 것부터 꾸준히 만들며 성장하는 것을 목표로 합니다.</li> </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -30,20 +30,21 @@
           <br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white">
           <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white">
-          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
+          <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white">
+          <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
           </div>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=ㅋㅋ> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=ㅋㅋ"> </a>
+    <div align= "center"> <a href=https://www.instagram.com/s__eung.hwan__1226> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/s__eung.hwan__1226"> </a>
          <a href=ㅇㅅㅇ> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=ㅇㅅㅇ"> </a>
           </div>  <br> 
     <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjsh130123%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=jsh130123&custom_title=jsh130123's Github Stat&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
-        />  </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center">   </div> 
     </div>
     
-</div>
