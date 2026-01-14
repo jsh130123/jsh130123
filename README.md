@@ -6,7 +6,7 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  👋 안녕하세요, 개발을 배우고 있는 주니어 개발자 정승환입니다.<br>  </li> 파이썬, 자바스크립트, C 언어를 중심으로 공부하고 있으며<br></li>   HTML / CSS를 활용한 정적인 웹사이트 제작과<br></li>   간단한 매크로 개발을 취미로 하고 있습니다.<br><br></li></li> 🐍 Python / JavaScript / C<br></li> 🌐 HTML / CSS<br></li> 🛠️ 관심 분야: 자동화, 매크로, 정적 웹<br><br></li></li>작은 것부터 꾸준히 만들며 성장하는 것을 목표로 합니다.</li> </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ 사용가능 기술 </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
@@ -37,6 +37,8 @@
           </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 연락 </h2> <br> 
+    <div align= "center"> <a href=https://www.instagram.com/s__eung.hwan__1226> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/s__eung.hwan__1226"> </a>
+
     <div align= "center"> <a href=https://www.instagram.com/s__eung.hwan__1226> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/s__eung.hwan__1226"> </a>
     
