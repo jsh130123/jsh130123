@@ -38,7 +38,6 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 연락 </h2> <br> 
-    <div align= "center"> <a href=https://www.instagram.com/s__eung.hwan__1226> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/s__eung.hwan__1226"> </a>
-
+    <div align= "center"> <a href=https://www.instagram.com/s__eung.hwan__1226> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/s__eung.hwan__1226"> </a><
     <a href="https://t.me/aes256s">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://t.me/aes256s"> </a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://t.me/aes256s"> </a>/div>
